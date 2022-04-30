@@ -1,0 +1,156 @@
+
+
+.title-about-box{
+    height: 105px;
+    border-bottom: #d7d7d4 solid 1px;
+}
+
+.main-title{
+    height: 51px;
+    width: 242px;
+    margin: 30px auto 0;
+    border-top: #d7d7d4 solid 1px;
+    border-bottom: #d7d7d4 solid 1px;
+    text-align: center;
+    line-height: 51px;
+}
+
+.sub-title{
+    text-align: center;
+    color: #e5030d;
+    padding:0;
+    margin-top:3px;
+}
+
+.goods-detail-info{
+    margin-top:30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.photo-details{
+    width: 575px;
+    height: 688px;
+}
+
+.main-photo{
+    height: 560px;
+    width: 560px;
+}
+
+.main-photo-border{
+    border: 1px solid #d7d7d4;
+    padding:5px;
+}
+
+.all-photo{
+    margin: 10px 0 0;
+    padding:0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.photo{
+    height: 80px;
+    width: 80px;
+    margin:5px;
+}
+
+.goods-info{
+    width: 575px;
+    height: 565px;
+    border: 1px solid #d7d7d4;
+    padding:0 20px;
+    margin-left: 20px;
+}
+
+.goods-name{
+    color: #e5030d;
+    font-size: 21px;
+    margin:0;
+}
+
+table{
+    margin-top: 25px;
+    border: #d7d7d4 solid 1px;
+    width: 100%;
+    :0;
+}
+
+td{
+    border: #d7d7d4 solid 1px;
+    height: 40px;
+    padding-left: 5px;
+}
+
+.browser-info{
+    border-bottom: #d7d7d4 solid 1px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.goods-text-description{
+    height: auto;
+    min-height: 150px;
+    margin:  0 0 15px 0;
+}
+
+.goods-text-title{
+    background: #e5030d;
+    color: #fff;
+    height: 50px;
+    font-size: 18px;
+    width: 30%;
+    text-align: center;
+    line-height: 50px;
+}
+
+.all-descriptions-wrap{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.title-wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+    width: 1204px;
+}
+
+.backList{
+    padding-left: 33px;
+    font-size: 15px;
+}
+
+.back-box{
+    width: 95%;
+    height: 48px;
+    line-height: 48px;
+    border: #d7d7d4 solid 1px;
+    border-right: none;
+    border-left: none;
+    text-align: right;
+    padding-right: 1%;
+    background: #e5e5e5;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    color: #333;
+}
+
+.text-info{
+    width:1204px;
+    word-wrap:break-word;
+    color: #191919;
+    margin:5px;
+}
+
+h3{
+    width:1204px;
+    margin:10px 5px;
+}
